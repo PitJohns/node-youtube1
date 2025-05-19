@@ -1,0 +1,21 @@
+{
+  "name": "node-youtube",
+  "version": "1.0.0",
+  "description": "Node JS Course for youtubt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Vladilen Minin <vladilen10115@mail.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
