@@ -13,7 +13,8 @@
   "author": "Vladilen Minin <vladilen10115@mail.ru>",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.4.1"
+    "chalk": "^4.1.2",
+    "commonjs-variables-for-esmodules": "^1.1.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
